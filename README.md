@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robertburk
 - 👀 I’m interested in ... engineering, data science and machine learning, as well as robotics control!
-- 🌱 I’m currently learning ... Python mainly (please) + ROS systems
+- 🌱 I’m currently learning ... Python mainly
 - 💞️ I’m looking to collaborate on ... not looking to collaborate on anything specific at the moment!
 - 📫 How to reach me ... https://www.linkedin.com/in/robertburkeengineer/
 
